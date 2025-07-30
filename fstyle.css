@@ -1,0 +1,218 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(155, 192, 192, 0.373);
+}
+#head{
+        width: 40%;
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+}
+header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border: 1px solid rgba(91, 23, 23, 0.322);
+        background-color: rgba(36, 140, 163, 0.23);
+}
+a{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 100;
+    color: black;
+}
+h1{
+    font-size: 55px;
+    background: radial-gradient(rgb(238, 161, 17),rgb(143, 85, 85));
+    color: transparent;
+    background-clip: text;
+}
+p{
+    font-size: 25px;
+    color: black;
+    text-align: justify;
+}
+#first{
+display: flex;
+gap: 5%;
+padding : 20px;
+border: 3px solid rgb(11, 86, 121); 
+}
+#second{
+display: flex;
+gap: 5%;
+padding : 20px;
+border: 3px solid rgb(11, 86, 121); 
+}
+#third{
+display: flex;
+gap: 5%;
+padding : 20px;
+border: 3px solid rgb(11, 86, 121); 
+        }
+        #fourth{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121); 
+        }
+        #fifth{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121); 
+        }
+        #sixth{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121); 
+        }
+        #seventh{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121); 
+        }
+        #eighth{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121); 
+        }
+        #nine{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #ten{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #eleven{
+             display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twelve{
+             display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #thirteen{
+             display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #fourteen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #fifteen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #sixteen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #seventeen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #eighteen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #nineteen{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twenty{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentyone{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentytwo{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentythree{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentyfour{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentyfive{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentysix{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentyseven{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentyeight{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+        #twentynine{
+            display: flex;
+             gap: 5%;
+            padding : 20px;
+           border: 3px solid rgb(11, 86, 121);
+        }
+footer{
+            height: 200px;
+            background:linear-gradient(orange,white,green);
+            display: flex;
+            align-items:center ;
+            justify-content: space-around;
+        }

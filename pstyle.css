@@ -1,0 +1,168 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(189, 234, 234, 0.373);
+}
+#head{
+        width: 40%;
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+}
+header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border: 1px solid rgba(91, 23, 23, 0.322);
+        background-color: rgba(36, 140, 163, 0.23);
+}
+a{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 100;
+    color: black;
+}
+#first{
+             display: flex;
+             gap: 5%;
+              padding : 30px;
+           border: 3px solid rgb(3, 99, 116); 
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(14, 13, 13);
+          text-align: justify;
+        }
+          #second{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: black;
+          text-align: justify;
+        }
+          #three{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(27, 27, 27);
+          text-align: justify;
+        } 
+        #four{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(15, 15, 15);
+          text-align: justify;
+        }
+        #five{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(19, 18, 18);
+          text-align: justify;
+        }
+         #six{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(12, 12, 12);
+          text-align: justify;
+        }
+         #sevine{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(10, 10, 10);
+          text-align: justify;
+        }
+         #giveen{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(15, 15, 15);
+          text-align: justify;
+        }
+         #ten{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(17, 17, 17);
+          text-align: justify;
+        }
+         #leven{
+             display: flex;
+             gap: 5%;
+              padding : 20px;
+           border: 3px solid rgb(3, 99, 116); 
+
+
+        }
+        h1{
+          font-size: 45px;
+    background: radial-gradient(rgb(183, 120, 4),rgb(230, 141, 9));
+    color: transparent;
+    background-clip: text; 
+
+        }
+        p{
+          font-size: 25px;
+          color: rgb(17, 17, 17);
+          text-align: justify;
+        }
+footer{
+            height: 200px;
+            background:linear-gradient(orange,white,green);
+            display: flex;
+            align-items:center ;
+            justify-content: space-around;
+        }
